@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayros25
 - 👀 I’m interested in cats
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Javascript and Node.js
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: come back later
 
